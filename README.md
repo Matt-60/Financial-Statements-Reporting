@@ -1,67 +1,60 @@
-📊 Project 1: Financial Statements Reporting in Power BI
-Overview
-This project focuses on building an end‑to‑end financial reporting solution in Power BI, based on monthly trial balances.
-The goal was to transform raw accounting data into clear and interactive Balance Sheet and Profit & Loss (P&L) reports.
-The project demonstrates both financial domain knowledge and business intelligence best practices, including data preparation, modeling, and visualization.
+# 📊 Financial Statements Reporting in Power BI
 
-Data
+## 📌 Overview
+This project presents an **end‑to‑end financial reporting solution** built in **Power BI**, based on monthly **trial balances**.  
+The goal was to transform raw accounting data into clear, interactive **Balance Sheet** and **Profit & Loss (P&L)** reports.
 
-Monthly trial balances for each month of 2024 and 2025
-Data used for the project is synthetic (randomized) and created for analytical and portfolio purposes
+The project demonstrates a combination of **financial domain knowledge** and **Business Intelligence best practices**.
 
+---
 
-Objective
+## 📂 Data
+- Monthly **trial balances** for each month of **2024 and 2025**
+- Data is **synthetic (randomized)** and used for portfolio and analytical purposes
 
-Visualize Balance Sheet and Profit & Loss statement
-Enable period‑to‑period comparison and financial analysis
-Build a scalable and readable Power BI data model
+---
 
+## 🎯 Objective
+- Visualize **Balance Sheet** and **Profit & Loss statements**
+- Enable **period‑to‑period comparison**
+- Build a scalable and readable **Power BI data model**
 
-Methodology & Steps
+---
 
-Data validation
+## 🛠 Methodology
+1. **Data validation**
+   - Verified structure, completeness, and consistency of trial balance data
+2. **Account mapping (Excel)**
+   - Mapped general ledger accounts to Balance Sheet and P&L categories
+3. **Data transformation (Power Query)**
+   - Cleaned, reshaped, and standardized financial data
+4. **Data modeling**
+   - Designed a **star schema** with fact and dimension tables
+5. **Data visualization**
+   - Created interactive Balance Sheet and P&L views with KPIs and trends
 
-Checked structure, completeness, and consistency of trial balance data
+---
 
+## 🧰 Tools & Technologies
+- Power BI
+- Power Query
+- Excel (account mapping)
+- Star‑schema data modeling
+- Financial reporting logic (BS & P&L)
 
-Account mapping (Excel)
+---
 
-Mapped general ledger accounts to Balance Sheet and P&L categories
+## ✅ Outcome
+An interactive Power BI report that converts raw accounting data into **clear financial statements**, enabling effective financial analysis and reporting.
 
+---
 
-Data transformation (Power Query)
+## 💡 Key Skills Demonstrated
+- Financial data modeling  
+- Power BI & Power Query  
+- Star‑schema design  
+- Business‑oriented data visualization  
+- End‑to‑end BI workflow  
 
-Cleaned, reshaped, and standardized financial data
-
-
-Data modeling
-
-Designed a star schema with fact and dimension tables
-
-
-Data visualization
-
-Created interactive Balance Sheet and P&L views with KPIs and trends
-
-
-
-
-Tools & Technologies
-
-Power BI
-Power Query
-Data modeling (star schema)
-Excel (account mapping)
-Financial reporting logic (BS & P&L)
-
-
-Outcome
-An interactive Power BI report that converts raw accounting data into clear financial statements, demonstrating the full BI workflow from source data to business insights.
-
-Key Skills Demonstrated
-
-Financial data modeling
-Power BI & Power Query
-Star‑schema design
-Business‑oriented data visualization
-End‑to‑end BI project delivery
+---
+``
