@@ -6,6 +6,10 @@ The goal was to transform raw accounting data into clear, interactive **Balance 
 
 The project demonstrates a combination of **financial domain knowledge** and **Business Intelligence best practices**.
 
+## 📷 Report Preview
+<img width="1385" height="781" alt="Zrzut ekranu 2026-03-13 112419" src="https://github.com/user-attachments/assets/82e8baf6-1d37-4f47-b31d-6502233aa704" />
+<img width="1385" height="783" alt="Zrzut ekranu 2026-03-13 112500" src="https://github.com/user-attachments/assets/52d65d8d-875d-4f40-ac69-37aa95549728" />
+
 ---
 
 ## 📂 Data
