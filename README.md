@@ -61,4 +61,3 @@ An interactive Power BI report that converts raw accounting data into **clear fi
 - End‑to‑end BI workflow  
 
 ---
-``
